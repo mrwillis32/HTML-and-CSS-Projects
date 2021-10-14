@@ -249,7 +249,7 @@ section {
 .reservation p {
     color: #131618;
     width: 50%;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .reservation form {
@@ -293,6 +293,23 @@ section {
     padding: 30px 39px;
 }
 
+.rsvp-text {
+    text-align: center;
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: black;
+    padding: 12px 12px;
+    width: 50%;
+    border: 1px solid #808080;
+    margin: 2% auto;
+    border-radius: 6px;
+    background: rgb(227,222,222);
+    box-shadow: 2px 3px 3px 0px rgba(0,0,0,0.3);
+    font-family: 'Raleway', sans-serif;
+}
+
+
 .terms {
     margin: 30px 1px 0 0;
     padding-left: 52px;
@@ -320,7 +337,7 @@ section {
     margin: 0px 3%;
     padding: 7px 0px;
     width: 25%;
-    font-size: 10px;
+    font-size: 15px;
     transition: border-color 0.3s color 0.3s background-color 0.3s;
     border-radius: 7px;
     background-color: #797a7b;
