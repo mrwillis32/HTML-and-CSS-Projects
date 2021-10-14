@@ -198,7 +198,7 @@ section {
 /*=========================================
     Contact STYLES
 ==========================================*/
-.flex-containeer {
+.flex-container {
     display: -webkit-flex;
     display: flex;
     flex-wrap: wrap;
